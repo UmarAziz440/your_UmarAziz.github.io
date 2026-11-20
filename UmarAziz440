@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My First Website</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f6fb;
+color: #222; }
+
+header { background: #1e3a8a; color: #fff; padding: 40px 20px; text-
+align: center; }
+
+main { max-width: 700px; margin: 30px auto; background: #fff; padding:
+24px; border-radius: 8px; }
+Lab Manual: GitHub Basics & Hosting a Website on GitHub Pages
+
+Page 14 of 19
+
+footer { text-align: center; color: #666; padding: 20px; }
+</style>
+</head>
+<body>
+<header>
+<h1>Hello, I'm Umar aziz</h1>
+<p>Student, FAST-NUCES Peshawar</p>
+</header>
+<main>
+<h2>About Me</h2>
+<p>This website is hosted for free using GitHub Pages.</p>
+<h2>Skills</h2>
+<ul><li>HTML &amp; CSS</li><li>Python</li><li>Git &amp; GitHub</li></ul>
+</main>
+<footer>&copy; 2026 Umar aziz</footer>
+</body>
+</html>
